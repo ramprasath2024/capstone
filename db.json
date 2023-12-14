@@ -1,0 +1,198 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bluetooth Earphone 001",
+      "description": "Bluetooth Earphone",
+      "price": 1000,
+      "quantity": 1,
+      "image": "/images/bluetooth-earphone-01.jpeg",
+      "category": "Earphone",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Earphone 002",
+      "description": "Bluetooth Earphone",
+      "price": 1100,
+      "quantity": 1,
+      "image": "/images/bluetooth-earphone-02.jpeg",
+      "category": "Earphone",
+      "productId": 2
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Earphone 003",
+      "description": "Bluetooth Earphone",
+      "price": 700,
+      "quantity": 1,
+      "image": "/images/bluetooth-earphone-03.jpeg",
+      "category": "Earphone",
+      "productId": 3
+    },
+    {
+      "id": 4,
+      "name": "Earphone 001",
+      "description": "Earphone",
+      "price": 500,
+      "quantity": 1,
+      "image": "/images/earphone-01.jpeg",
+      "category": "Earphone",
+      "productId": 4
+    },
+    {
+      "id": 5,
+      "name": "Earphone 002",
+      "description": "Earphone",
+      "price": 350,
+      "quantity": 1,
+      "image": "/images/earphone-02.jpeg",
+      "category": "Earphone",
+      "productId": 5
+    },
+    {
+      "id": 6,
+      "name": "Earphone 003",
+      "description": "Earphone",
+      "price": 450,
+      "quantity": 1,
+      "image": "/images/earphone-03.jpeg",
+      "category": "Earphone",
+      "productId": 6
+    },
+    {
+      "id": 7,
+      "name": "Charger 01",
+      "description": "Charger",
+      "price": 300,
+      "quantity": 1,
+      "image": "/images/charger-01.jpeg",
+      "category": "Charger",
+      "productId": 7
+    },
+    {
+      "id": 8,
+      "name": "Charger 02",
+      "description": "Charger",
+      "price": 400,
+      "quantity": 1,
+      "image": "/images/charger-02.jpeg",
+      "category": "Charger",
+      "productId": 8
+    },
+    {
+      "id": 9,
+      "name": "Power Bank 01",
+      "description": "Power Bank",
+      "price": 600,
+      "quantity": 1,
+      "image": "/images/power-bank-01.jpeg",
+      "category": "Power Bank",
+      "productId": 9
+    },
+    {
+      "id": 10,
+      "name": "Earphone 004",
+      "description": "Earphone",
+      "price": 400,
+      "quantity": 1,
+      "image": "/images/earphone-04.jpeg",
+      "category": "Earphone",
+      "productId": 10
+    },
+    {
+      "id": 11,
+      "name": "Earphone 004",
+      "description": "Earphone",
+      "price": 500,
+      "quantity": 1,
+      "image": "/images/earphone-05.jpeg",
+      "category": "Earphone",
+      "productId": 11
+    },
+    {
+      "id": 12,
+      "name": "Speaker 001",
+      "description": "Speaker",
+      "price": 1200,
+      "quantity": 1,
+      "image": "/images/speaker-01.jpeg",
+      "category": "Speaker",
+      "productId": 12
+    },
+    {
+      "id": 13,
+      "name": "Speaker 002",
+      "description": "Speaker",
+      "price": 1000,
+      "quantity": 1,
+      "image": "/images/speaker-02.jpeg",
+      "category": "Speaker",
+      "productId": 13
+    },
+    {
+      "id": 14,
+      "name": "Speaker 003",
+      "description": "Speaker",
+      "price": 800,
+      "quantity": 1,
+      "image": "/images/speaker-03.jpeg",
+      "category": "Speaker",
+      "productId": 14
+    },
+    {
+      "id": 15,
+      "name": "Woofer 001",
+      "description": "Woofer",
+      "price": 2000,
+      "quantity": 1,
+      "image": "images/woofer-01.jpeg",
+      "category": "Speaker",
+      "productId": 15
+    }
+  ],
+  "cart": [
+    {
+      "name": "Bluetooth Earphone 003",
+      "description": "Bluetooth Earphone",
+      "price": 700,
+      "quantity": 1,
+      "image": "/images/bluetooth-earphone-03.jpeg",
+      "category": "Earphone",
+      "productId": 3,
+      "id": 1
+    },
+    {
+      "name": "Earphone 001",
+      "description": "Earphone",
+      "price": 500,
+      "quantity": "2",
+      "image": "/images/earphone-01.jpeg",
+      "category": "Earphone",
+      "productId": 4,
+      "id": 2
+    },
+    {
+      "name": "Earphone 004",
+      "description": "Earphone",
+      "price": 400,
+      "quantity": 6,
+      "image": "/images/earphone-04.jpeg",
+      "category": "Earphone",
+      "productId": 10,
+      "id": 3
+    }
+  ],
+  "employees": [
+    {
+      "name": "ramprasath.ganapathy@hcl.com",
+      "email": "85.prasath@gmail.com",
+      "address": "111",
+      "phone": "11",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "Ram"
+  }
+}
